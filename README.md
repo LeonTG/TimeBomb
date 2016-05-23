@@ -10,7 +10,7 @@ ___
 
 **Make sure to have the head drop as an item for it to be added to the chest if you have heads on for this**
 
-**Head posts also work*
+**Head posts also work**
 
 ___
 
