@@ -18,7 +18,7 @@ ___
 
 `/timebomb info` - *View scenario information.*
 
-`/timebomb current` - *Reload the configuration.*
+`/timebomb reload` - *Reload the configuration.*
 
 `/timebomb enable` - *Enable the scenario.*
 
