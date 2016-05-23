@@ -1,0 +1,9 @@
+name: Timebomb
+main: com.leontg77.timebomb.Main
+version: 1.0.0
+author: LeonTG77
+description: After killing a player all of their items will appear in a double chest rather than dropping on the ground. You then have a set time amount of seconds to loot what you want and get the hell away from it. This is because the chest explodes after the time is up.
+
+commands:
+  timebomb:
+    description: View information, enable or disable the scenario.
