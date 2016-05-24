@@ -30,6 +30,16 @@ ___
 
 ___
 
+**Configuration:**
+
+`safe worlds` - A list of all worlds timebomb should **NOT** work in, add more with going to a new line and add `- [worldname]` to add a world.
+
+`explosion force` - The explotion force (Aka how huge it is) Recomended is at 10.
+
+`time` - The amount of time in seconds before it explodes.
+
+___
+
 [Download](https://github.com/LeonTG77/Timebomb/releases)
 
 [Source Code](https://github.com/LeonTG77/Timebomb)
