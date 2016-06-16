@@ -87,13 +87,15 @@ public class DeathListener implements Listener {
 
         event.getDrops().clear();
         
-        final ArmorStand stand = player.getWorld().spawn(chest.getLocation().clone().add(0.5, 0, 0), ArmorStand.class);
+        final ArmorStand stand = player.getWorld().spawn(chest.getLocation().clone().add(0.5, 1, 0), ArmorStand.class);
 
         stand.setCustomNameVisible(true);
         stand.setSmall(true);
 
         stand.setGravity(false);
         stand.setVisible(false);
+        
+        stand.setMarker(true);
         
         new BukkitRunnable() {
             private int time = settings.getConfig().getInt("time", 30) + 1; // add one for countdown.
