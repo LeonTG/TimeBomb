@@ -44,4 +44,4 @@ ___
 
 [Source Code](https://github.com/LeonTG77/Timebomb)
 
-*This has been tested on the latest spigot 1.8.7 build*
+*This has been tested on the latest spigot 1.8.7 build, it does NOT work on 1.7 (because armor stands)*
